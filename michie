@@ -1,0 +1,23 @@
+<html>
+<head>
+	<style> {
+    	button: hover 
+        border: 1px #EDA35A !important;
+        color: #EDA35A !important;
+        }
+    </style>
+<title>Page Title</title>
+</head>
+<body style="background-color: #FCF9EA; color: #FFA4A4;">
+<h1 style="text-align: center;">Saranngheyo</h1>
+<p style="color: #A3DC9A;">Pencetttt</p>
+
+
+<div style="display: flex; justify-content: center;">
+  <button style= "background-color: #555879; color: #F5CBCB; width: 200px;"onclick="alert('Selamat Ulang Tahun!!!!')">Tombol untuk merubahmu Menjadi Hitam</button>
+  
+<br><br><br><br>
+<img src="" alt="Tung-tung" style="width: 500px;">
+
+</body>
+</html>
